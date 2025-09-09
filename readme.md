@@ -1,4 +1,4 @@
-# Curso de Desenvolvimento Web Java para Ensino Técnico
+# Curso de Desenvolvimento Web com Java
 
 Este repositório contém um curso completo de desenvolvimento web utilizando Java, Servlets, JSP, e a arquitetura MVC, com foco em práticas guiadas para alunos de ensino técnico. As práticas são desenvolvidas utilizando NetBeans e GlassFish.
 
