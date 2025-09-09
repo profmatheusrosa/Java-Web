@@ -4,7 +4,7 @@ Este repositório contém um curso completo de desenvolvimento web utilizando Ja
 
 ## Módulos
 
-* [Módulo 1: Aplicação Web e Tecnologias do Lado Cliente](modulo-01/README.md)
+* [Módulo 1: Aplicação Web e Tecnologias do Lado Cliente](Módulo 1_ Aplicação Web e Tecnologias do Lado Cliente.md)
 * [Módulo 2: Servlets](modulo-02/README.md)
 * [Módulo 3: Java Server Pages (JSP)](modulo-03/README.md)
 * [Módulo 4: Arquitetura MVC e Padrões de Projeto](modulo-04/README.md)
